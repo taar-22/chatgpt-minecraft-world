@@ -1,0 +1,78 @@
+ChatGPT Minecraft World
+
+Turning AI waiting time into a miniature, animated world.
+
+ChatGPT Minecraft World is an experimental Chrome extension that transforms the ChatGPT experience into a Minecraft-inspired construction scene. While ChatGPT generates a response, a miniature world comes to life with houses, castles, skyscrapers, workers, trees, and animated building effects.
+
+Sometimes, the world grows. Sometimes, it goes BOOM!
+
+
+FEATURES
+
+- Procedural Buildings: Watch houses and other structures appear across a growing landscape.
+- Medieval Castles: Explore a fantasy-inspired architectural world.
+- Fairy Castles: Discover magical castles surrounded by sparkling effects.
+- City Skyline: Mix residential buildings with skyscrapers and urban structures.
+- Animated Workers: Watch construction workers bring the miniature world to life.
+- Living Landscape: Trees and environmental elements add variety to the scene.
+- Explosion Effect: Trigger a dramatic explosion animation with a keyboard press.
+- Manual Demo Mode: Start the animation manually to demonstrate the extension.
+- Browser Integration: Designed to run as a Chrome extension alongside ChatGPT.
+
+
+THE IDEA :
+
+AI interfaces are usually built around text boxes, loading indicators, and streaming responses.
+
+This project explores a different question:
+
+What if waiting for an AI response felt like watching a world being built?
+
+The idea is to make the waiting experience more playful by creating an animated miniature world alongside the ChatGPT interface.
+
+Rather than another conventional loading screen, this project experiments with creative visualisation, interactive animation, and unexpected browser experiences.
+
+
+TECH STACK :
+
+- JavaScript
+- HTML5 Canvas
+- Chrome Extension APIs
+- CSS
+
+WHAT I EXPLORED :
+
+Building this project provided an opportunity to experiment with
+
+- Canvas-based animation and rendering.
+- JavaScript event handling.
+- Browser extension architecture.
+- Procedural visual elements.
+- Interactive effects and animation timing.
+- Creative approaches to user experience design.
+
+
+FUTURE IMPROVEMENTS :
+
+- Synchronise animation start and completion with ChatGPT's actual response-generation state.
+- Add more building types and architectural styles.
+- Introduce day-and-night cycles.
+- Add sound effects with user-controlled audio.
+- Allow users to customise the world and animation speed.
+- Improve performance and responsiveness across screen sizes.
+- Add settings to enable or disable individual visual effects.
+
+PROJECT STATUS :
+
+This is an experimental creative-coding project.
+
+Features and behaviour may change as development continues. The animation is a visual companion to the ChatGPT interface and does not represent ChatGPT's internal reasoning or computational activity.
+
+The project explores how creative coding and animation can make everyday digital interactions more engaging.
+
+
+CONTRIBUTIONS :
+
+Ideas, suggestions, and feedback are welcome.
+
+This project is an exploration of creative browser experiences, and there is plenty of room for new ideas and improvements.
